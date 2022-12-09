@@ -8,7 +8,8 @@ As of 12-9-2022, this app is published on Expo and can be connected to via this 
 
 # Running locally
 
-1. run `npm install` in both the frontend folder and backend/server folder. 
+1. Download entire repo
+1. Run `npm install` in both the frontend folder and backend/server folder. 
 2. Change the IP address const in frontend/app/data/api.js to be your local IP.
-3. run `npm start` while in the frontend folder as well as in the backend/server folder. 
+3. Run `npm start` while in the frontend folder as well as in the backend/server folder. 
 4. Scan the Expo QR code in the terminal in order to launch the app on a physical device or enter `i` in the terminal in order to open on an IOS emulator
