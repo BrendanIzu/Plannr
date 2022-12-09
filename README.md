@@ -16,3 +16,11 @@ https://youtu.be/l1voFSzJF8w?t=156
 2. Change the IP address const in frontend/app/data/api.js to be your local IP.
 3. Run `npm start` while in the frontend folder as well as in the backend/server folder. 
 4. Scan the Expo QR code in the terminal in order to launch the app on a physical device or enter `i` in the terminal in order to open on an IOS emulator
+
+# What I learned
+
+## Backend
+Some technologies that I had not used prior to this were Amazon RDS, Digital Ocean Droplets, and MySQL Workbench. I did most of the development locally while hosting the node server, and move to hosting the node server via a service called pm2 on a digital ocean droplet. I chose digital ocean because if I verified I was a student then the service would be free. I enjoyed learning about Amazon RDS as well as MySQL. Learning and using these technologies definitely has helped me to feel more confident in my software skills. 
+
+## Frontend
+While I had worked with React Native in the past, this was by far my most ambitious project and I am extremely happy with the results I was able to produce. At the start of this project, I was still not completely comfortable with things like useStates, and props, however, from extensive experimentation and a lot of hours spent creating this project, I have definitely increased my capabilities and comfortability in using React Native. 
