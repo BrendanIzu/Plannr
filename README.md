@@ -1,4 +1,5 @@
 # Plannr
+Plannr is a mobile application intended to give users an efficient platform to view who else is going to an activity. 
 
 # Problem Statement
 People who enjoy planning activities, as well as people who enjoy attending activities lack an efficient way to organize and view rsvp’s. This can lead to inaccurate preparations for events, as well as forgetting to send invitations to all persons intended, on the planner side. On the attendee side, lack of knowledge of who is planning on attending a certain event can lead to hesitation to commit to go.
