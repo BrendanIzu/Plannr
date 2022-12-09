@@ -6,6 +6,9 @@ As of 12-9-2022, this app is published on Expo and can be connected to via this 
 
 <img width="314" alt="Screen Shot 2022-12-09 at 4 26 23 PM" src="https://user-images.githubusercontent.com/77033552/206811396-6663abc8-947d-4f82-883a-8b6a44c78841.png">
 
+# Video Demo 
+https://youtu.be/l1voFSzJF8w?t=156
+
 # Running locally
 
 1. Download entire repo
