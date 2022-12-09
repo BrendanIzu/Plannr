@@ -6,5 +6,5 @@
 
 # Running locally
 
-# 1. run `npm install` in both the frontend folder and backend/server folder. 
+1. run `npm install` in both the frontend folder and backend/server folder. 
 The backend is hosted on a digital ocean server, however, if you want to run it locally, change the
