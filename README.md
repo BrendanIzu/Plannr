@@ -1,5 +1,8 @@
 # Plannr
 
+# Problem Statement
+People who enjoy planning activities, as well as people who enjoy attending activities lack an efficient way to organize and view rsvp’s. This can lead to inaccurate preparations for events, as well as forgetting to send invitations to all persons intended, on the planner side. On the attendee side, lack of knowledge of who is planning on attending a certain event can lead to hesitation to commit to go.
+
 # Getting Started
 
 As of 12-9-2022, this app is published on Expo and can be connected to via this QR code. 
